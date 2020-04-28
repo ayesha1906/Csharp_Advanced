@@ -1,0 +1,7 @@
+D:\VisualStudioCodes\C# Advanced\EventsAndDelegates\EventsAndDelegates\bin\Debug\EventsAndDelegates.exe.config
+D:\VisualStudioCodes\C# Advanced\EventsAndDelegates\EventsAndDelegates\bin\Debug\EventsAndDelegates.exe
+D:\VisualStudioCodes\C# Advanced\EventsAndDelegates\EventsAndDelegates\bin\Debug\EventsAndDelegates.pdb
+D:\VisualStudioCodes\C# Advanced\EventsAndDelegates\EventsAndDelegates\obj\Debug\EventsAndDelegates.csprojAssemblyReference.cache
+D:\VisualStudioCodes\C# Advanced\EventsAndDelegates\EventsAndDelegates\obj\Debug\EventsAndDelegates.csproj.CoreCompileInputs.cache
+D:\VisualStudioCodes\C# Advanced\EventsAndDelegates\EventsAndDelegates\obj\Debug\EventsAndDelegates.exe
+D:\VisualStudioCodes\C# Advanced\EventsAndDelegates\EventsAndDelegates\obj\Debug\EventsAndDelegates.pdb
