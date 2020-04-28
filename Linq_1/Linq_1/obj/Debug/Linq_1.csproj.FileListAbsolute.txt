@@ -1,0 +1,7 @@
+D:\VisualStudioCodes\C# Advanced\Linq_1\Linq_1\bin\Debug\Linq_1.exe.config
+D:\VisualStudioCodes\C# Advanced\Linq_1\Linq_1\bin\Debug\Linq_1.exe
+D:\VisualStudioCodes\C# Advanced\Linq_1\Linq_1\bin\Debug\Linq_1.pdb
+D:\VisualStudioCodes\C# Advanced\Linq_1\Linq_1\obj\Debug\Linq_1.csprojAssemblyReference.cache
+D:\VisualStudioCodes\C# Advanced\Linq_1\Linq_1\obj\Debug\Linq_1.csproj.CoreCompileInputs.cache
+D:\VisualStudioCodes\C# Advanced\Linq_1\Linq_1\obj\Debug\Linq_1.exe
+D:\VisualStudioCodes\C# Advanced\Linq_1\Linq_1\obj\Debug\Linq_1.pdb
