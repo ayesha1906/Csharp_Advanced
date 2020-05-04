@@ -1,0 +1,7 @@
+D:\VisualStudioCodes\C# Advanced\Reflections\Reflections\bin\Debug\Reflections.exe.config
+D:\VisualStudioCodes\C# Advanced\Reflections\Reflections\bin\Debug\Reflections.exe
+D:\VisualStudioCodes\C# Advanced\Reflections\Reflections\bin\Debug\Reflections.pdb
+D:\VisualStudioCodes\C# Advanced\Reflections\Reflections\obj\Debug\Reflections.csprojAssemblyReference.cache
+D:\VisualStudioCodes\C# Advanced\Reflections\Reflections\obj\Debug\Reflections.csproj.CoreCompileInputs.cache
+D:\VisualStudioCodes\C# Advanced\Reflections\Reflections\obj\Debug\Reflections.exe
+D:\VisualStudioCodes\C# Advanced\Reflections\Reflections\obj\Debug\Reflections.pdb
